@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m looking for job
+- 🌱 I’m looking for job.
+- 🔭 I’m currently working on my personal project call shopitall.
 
 ## 📫 How to reach me:
 
