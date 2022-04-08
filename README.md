@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ⚡ I'm a fullStack Developer.
+- ⚡ I'm a fullStack Web Developer.
 - 🌱 I’m looking for job.
 - 🔭 I’m currently working on my personal project call shopitall.
 
