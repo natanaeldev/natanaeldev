@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🌱 I’m looking for job
+
+## 📫 How to reach me:
+
+- natanaeljavierj.0002@gmail.com
+- www.linkedin.com/in/natanaeljavier
+
 <!--
 **natanaeldev/natanaeldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
