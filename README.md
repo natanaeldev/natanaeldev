@@ -1,7 +1,19 @@
 ### Hi there 👋
 
+- ⚡ I'm a fullStack Developer.
 - 🌱 I’m looking for job.
 - 🔭 I’m currently working on my personal project call shopitall.
+
+## Tech Stack.
+- HTML5/CSS.
+- Sass.
+- JavaScript.
+- Reactjs.
+- React Hooks.
+- React Router
+- nodejs.
+- Express.
+- Rest Api.
 
 ## 📫 How to reach me:
 
