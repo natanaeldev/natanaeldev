@@ -2,7 +2,7 @@
 
 - ⚡ I'm a fullStack Web Developer.
 - 🌱 I’m looking for job.
-- 🔭 I’m currently working on my personal project call shopitall.
+- 🔭 I’m currently working as a freelancer.
 
 ## Tech Stack.
 - HTML5/CSS.
