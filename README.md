@@ -12,6 +12,7 @@
 - React Hooks.
 - React Router
 - nodejs.
+- Nextjs.
 - Express.
 - Rest Api.
 - MongoDB.
