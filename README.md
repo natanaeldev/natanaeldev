@@ -14,6 +14,8 @@
 - nodejs.
 - Express.
 - Rest Api.
+- MongoDB.
+- Knex,js.
 
 ## 📫 How to reach me:
 
