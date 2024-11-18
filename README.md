@@ -17,6 +17,7 @@
 - Rest Api.
 - MongoDB.
 - Knex,js.
+- Postman
 
 ## 📫 How to reach me:
 
