@@ -1,40 +1,85 @@
-### Hi there 👋
+# Natanael Javier
 
-- ⚡ I'm a fullStack Web Developer.
-- 🌱 I’m looking for job.
-- 🔭 I’m currently working as a freelancer.
+## Cloud & Full-Stack Engineer
 
-## Tech Stack.
-- HTML5/CSS.
-- Sass.
-- JavaScript.
-- Reactjs.
-- React Hooks.
-- React Router
-- nodejs.
-- Nextjs.
-- Express.
-- Rest Api.
-- MongoDB.
-- Knex,js.
-- Postman
+I design and build secure, scalable applications and cloud infrastructure.
 
-## 📫 How to reach me:
+Originally on the path to medicine, I discovered something equally powerful — building systems that scale through code. Today, I focus on combining software engineering with cloud security to create reliable and hardened production environments.
 
-- natanaeljavierj.0002@gmail.com
-- www.linkedin.com/in/natanaeljavier
+---
 
-<!--
-**natanaeldev/natanaeldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Current Focus
 
-Here are some ideas to get you started:
+- AWS Security & Cloud Hardening  
+- DevSecOps practices  
+- Secure CI/CD pipelines  
+- Production-ready Next.js applications  
+- Infrastructure security fundamentals  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛡 What I’m Building
+
+Founder of **NJJ Cloud Security**
+
+Helping startups secure their AWS environments without slowing down engineering teams.
+
+Core areas:
+- Identity & Access Management (IAM)
+- Least-privilege architecture
+- Secure deployment pipelines
+- Infrastructure hardening
+- Cloud security assessments
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- React
+- Next.js
+- JavaScript (ES6+)
+- HTML5 / CSS3
+- Sass
+
+### Backend
+- Node.js
+- Express
+- REST APIs
+
+### Database
+- MongoDB
+
+### Cloud & Security
+- AWS
+- IAM Best Practices
+- Secure Configuration Baselines
+- DevSecOps Fundamentals
+
+---
+
+## 📈 What I Value
+
+- Clean architecture  
+- Secure-by-default systems  
+- Automation over manual processes  
+- Continuous improvement  
+- Shipping fast — without breaking security  
+
+---
+
+## 📌 Pinned Projects
+
+(Highlighted repositories below demonstrate my work in production-ready web applications and secure system design.)
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/natanaeljavier  
+- Email: natanaeljavierj.0002@gmail.com  
+- Website: https://www.njjcloudsecurity.com  
+
+---
+
+> Building secure systems. Learning every day. Scaling with intention.
