@@ -4,8 +4,7 @@
 
 I design and build secure, scalable applications and cloud infrastructure.
 
-Originally on the path to medicine, I discovered something equally powerful — building systems that scale through code. Today, I focus on combining software engineering with cloud security to create reliable and hardened production environments.
-
+With a background in full-stack development, I focus on combining software engineering with cloud architecture and security to create resilient, production-ready systems. My work centers on DevOps automation, Infrastructure as Code, and building hardened environments that scale efficiently and operate reliably.
 ---
 
 ## 🚀 Current Focus
